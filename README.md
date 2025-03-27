@@ -1,1 +1,2 @@
-# Algoritimos-Guloso
+# Algoritmos-Gulosos
+Atividade
